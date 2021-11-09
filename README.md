@@ -3,11 +3,21 @@
 
 
 <p align="justify" width="100%">
-    The dataset I used for this personal project is from Kaggle uploaded by aariyan panchal
-    Link of Dataset : https://www.kaggle.com/aariyan101/usa-housingcsv
+    The dataset I used for this personal project is from Kaggle uploaded by aariyan panchal.
+</p>
+<p align="justify" width="100%">
+    Link of Dataset : https://www.kaggle.com/aariyan101/usa-housingcsv.
+</p>
+<p align="justify" width="100%">
     File Python/main.py contains the code that used for doing the prediction of House Price using Linear Regression Method.
+</p>
+<p align="justify" width="100%">
     File Dataset/USA_Housing.csv is the dataset that I used for this research.
+</p>
+<p align="justify" width="100%">
     File Model/housePredictionModel.pickle is the result of model that I trained in Pickle Format with highest Accuracy.
+</p>
+<p align="justify" width="100%">
     File Output/.. is the output of this research. The data is plotted using Matplotlib.
 </p>
 
