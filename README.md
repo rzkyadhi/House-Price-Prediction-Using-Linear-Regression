@@ -21,6 +21,19 @@
     File Output/.. is the output of this research. The data is plotted using Matplotlib.
 </p>
 
+<p align="justify" width="100%">
+# Linear Regression
+</p>
+<p align="justify" width="100%">
+Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable[IBM, https://www.ibm.com/topics/linear-regression]. Linear Regression is one of method in Supervised Learning
+</p>
+<p align="justify" width="100%">
+# Supervised Learning
+</p>
+<p align="justify" width="100%">
+Supervised learning is a machine learning approach that’s defined by its use of labeled datasets. These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. Using labeled inputs and outputs, the model can measure its accuracy and learn over time.
+</p>
+
 <p align="center" width="100%">
     <img src="https://github.com/rzkyadhi/House-Price-Prediction-Using-Linear-Regression/blob/main/Output/Output(Avg.%20Area%20Income%2C%20Price).png">
 </p>
