@@ -20,18 +20,22 @@
 <p align="justify" width="100%">
     File Output/.. is the output of this research. The data is plotted using Matplotlib.
 </p>
+
 ## Linear Regression
 ```bash
-  <p align="justify" width="100%">
-Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable[IBM, https://www.ibm.com/topics/linear-regression]. Linear Regression is one of method in Supervised Learning.
-</p>
+  Linear regression analysis is used to predict the value of a variable based on the value of another variable. 
+  The variable you want to predict is called the dependent variable. 
+  The variable you are using to predict the other variable's value is called the independent variable. 
+  Linear Regression is one of the method in Supervised Learning.
+  [[IBM](https://www.ibm.com/topics/linear-regression)].
 ```
 
 ## Supervised Learning
 ```bash
-<p align="justify" width="100%">
-Supervised learning is a machine learning approach that’s defined by its use of labeled datasets. These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. Using labeled inputs and outputs, the model can measure its accuracy and learn over time.
-</p>
+  Supervised learning is a machine learning approach that’s defined by its use of labeled datasets. 
+  These datasets are designed to train or “supervise” algorithms into classifying data or predicting outcomes accurately. 
+  Using labeled inputs and outputs, the model can measure its accuracy and learn over time.
+  [[IBM](https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning)].
 ```
 
 <p align="center" width="100%">
