@@ -56,6 +56,6 @@ x1 = "Avg. Area Income"
 x2 = "Area Population"
 style.use("ggplot")
 pyplot.scatter(data[x2], data["Price"])
-pyplot.xlabel(x1)
+pyplot.xlabel(x2)
 pyplot.ylabel("Price")
 pyplot.show()
